@@ -11,3 +11,6 @@ Craft Weapon:
 Showcase Weapon:
 ![image](https://user-images.githubusercontent.com/57848836/162881484-07ed3d42-831a-4014-9510-dc3a635c4293.png)
 ![image](https://user-images.githubusercontent.com/57848836/162881510-0848ca92-b5b7-4df6-881c-e4b482f40799.png)
+
+Sell Weapon:
+![image](https://user-images.githubusercontent.com/57848836/162881572-055892e7-c727-4380-bca2-7b8607bdb803.png)
